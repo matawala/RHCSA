@@ -1,5 +1,5 @@
 #!/bin/sh
-x=10
+x=100
 while [ $x -ge 1 ]
 do
 	echo $x
